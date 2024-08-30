@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: Soy ` estudiante ` del [Instituto Politécnico Pedro Feliciano Martínez](https://www.instagram.com/ippfm23/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: Soy ` estudiante ` del [Instituto Politécnico Pedro Feliciano Martínez](https://www.instagram.com/ippfm23/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
