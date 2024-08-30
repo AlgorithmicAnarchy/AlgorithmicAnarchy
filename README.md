@@ -13,13 +13,12 @@
 
 <br><br>
 
-- :school: Soy `estudiante` del <a href="https://www.instagram.com/ippfm23/" target="_blank">Instituto Politécnico Pedro Feliciano Martínez</a>.
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
+- :school: Soy `estudiante` del Instituto Politécnico Pedro Feliciano Martínez.
+- :trophy: Futura   ` maxima  ` excelencia académica.
+- :technologist: Me encanta utilizar el software como solución para todos los `problemas`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :student: Actualmente, estoy aprendiendo `C#` y conceptos de programación.
+- :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
