@@ -1,6 +1,6 @@
 <h1 align="center">Hola, yo soy AgorA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Adentr%C3%A1ndose+En+El+Universo...+%C2%BF%3F;Desarrollador+en+constante+aprendizaje...+%F0%9F%92%BB;Siempre+buscando+nuevos+retos...+%F0%9F%8C%9F;Explorador+del+universo+digital...+%F0%9F%8C%8C;Construyendo+el+futuro%2C+l%C3%ADnea+por+l%C3%ADnea...+%F0%9F%94%A7" alt="Typing SVG" /></a>
+  <a href="https://github.com/AlgorithmicAnarchy"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Adentr%C3%A1ndose+En+El+Universo...+%C2%BF%3F;Transformando+ideas+en+c%C3%B3digo...+%F0%9F%92%BB;Siempre+buscando+nuevos+retos...+%F0%9F%8C%9F;Desarrollador+en+aprendizaje...+%F0%9F%92%BB;Construyendo+el+futuro...+%F0%9F%94%A7" alt="Typing SVG" /></a>
 </p>
 
 
