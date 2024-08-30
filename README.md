@@ -1,6 +1,6 @@
 <h1 align="center">Hola, yo soy AgorA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Adentr%C3%A1ndose+En+El+Universo...+%C2%BF%3F;Desarrollador+en+constante+aprendizaje...+%F0%9F%92%BB;Siempre+buscando+nuevos+retos...+%F0%9F%8C%9F;Explorador+del+universo+digital...+%F0%9F%8C%8C;Construyendo+el+futuro%2C+l%C3%ADnea+por+l%C3%ADnea...+%F0%9F%94%A7" alt="Typing SVG" /></a>
 </p>
 
 
