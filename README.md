@@ -14,12 +14,10 @@
 <br><br>
 
 - :school: Soy `estudiante` del Instituto Politécnico Pedro Feliciano Martínez.
-- :trophy: Futura   ` maxima  ` excelencia académica.
+- :trophy: Futura `maxima` excelencia académica.
 - :technologist: Me encanta utilizar el software como solución para todos los `problemas`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: Actualmente, estoy aprendiendo `C#` y conceptos de programación.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
 
 
