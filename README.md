@@ -17,7 +17,7 @@
 - :trophy: Futura `maxima` excelencia académica.
 - :technologist: Me encanta utilizar el software como solución para todos los `problemas`.
 - :student: Actualmente, estoy aprendiendo `C#` y conceptos de programación.
-- :nerd_face: Siempre `aprendiendo cosas nuevas`.
+- :nerd_face: Siempre `aprendiendo` cosas nuevas.
 <br>
 
 
